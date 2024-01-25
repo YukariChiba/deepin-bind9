@@ -32,14 +32,6 @@ Build-Depends: bison,
                protobuf-c-compiler,
                python3,
                zlib1g-dev
-Build-Depends-Indep: fonts-freefont-otf,
-                     latexmk,
-                     python3-sphinx,
-                     python3-sphinx-rtd-theme,
-                     texlive-fonts-extra,
-                     texlive-latex-recommended,
-                     texlive-xetex,
-                     xindy [!sw64]
 Standards-Version: 4.1.2
 Vcs-Browser: https://salsa.debian.org/dns-team/bind9
 Vcs-Git: https://salsa.debian.org/dns-team/bind9.git

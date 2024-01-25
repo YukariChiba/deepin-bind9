@@ -1,3 +1,9 @@
+bind9 (1:9.17.19.1-1+dde1) unstable; urgency=medium
+
+  * tmp disable indep
+
+ -- Chang Yang <yangchang@deepin.org>  Thu, 25 Jan 2024 09:43:03 +0800
+
 bind9 (1:9.17.19.1-1+dde) UNRELEASED; urgency=medium
 
   * update
